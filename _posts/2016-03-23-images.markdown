@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Et si on mettait un peu de couleur dans tout ça"
+date:   2016-03-23 21:24:54
+categories: instructions, images
+---
+
+Le thème par défaut de Jekyll fait bien le travail 
