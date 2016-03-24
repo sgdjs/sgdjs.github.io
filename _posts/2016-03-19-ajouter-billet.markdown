@@ -10,9 +10,10 @@ Ils doivent commencer par le code suivant, pour le fuseau horaire de Montréal.
 
 {% highlight markdown %}
 ---
-layout: [post]
+layout: post
 title:  "titre billet"
-date    yyyy-mm-jj hh:mm:ss -0400
+date:    yyyy-mm-jj hh:mm:ss -0400
+categories: jekyll, teaching, new
 ---
 {% endhighlight %}
 
