@@ -33,4 +33,4 @@ Ici c'est le début. On fait ensemble depuis le début. « À partir d'ici, on 
 
 Ensuite, on peut [parler de jekyll][suite]
 
-[suite]: http://www.hub.sgdjs.net/2016/03/23/simplicite.html
+[suite]: http://www.sgdjs.net/2016/03/23/simplicite.html
