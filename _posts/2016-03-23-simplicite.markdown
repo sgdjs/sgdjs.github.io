@@ -42,8 +42,7 @@ Par défaut, le serveur local se trouve en : [localhost:4000][lien-local]
 
 ---
 
-Ensuite, on peut [ajouter un nouveau billet][suite]
+Ensuite, on peut [ajouter un nouveau billet]({% post_url 2016-03-19-ajouter-billet %})
 
 [github]: https://github.com/sgdjs/sgdjs.github.io.git
 [lien-local]: http://localhost:4000
-[suite]: http://www.hub.sgdjs.net/2016/03/19/ajouter-billet.html
