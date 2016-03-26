@@ -2,7 +2,7 @@
 layout: post
 title:  "À propos de la simplicité d'utilisation de jekyll"
 date:   2016-03-23 20:37:14
-categories: experience, instructions
+categories: jekyll
 ---
 
 ## Retour d'expérience
@@ -18,7 +18,8 @@ Travailler avec git par terminal et vim demande d'être bon en orthographe. Mais
 
 * ### Cloner/rafraîchir le dépot
 
-Toutes les sources sont automatiquement téléchargées dans l'emplacement de travail. Cela peut se faire avec le GUI de git.
+Toutes les sources sont automatiquement téléchargées dans l'emplacement de travail. Cela peut se faire avec le GUI de git, vers le dépot de [github][github].
+
 
 * ### Travailler dans la branche de développement
 
@@ -34,11 +35,15 @@ Par défaut, le serveur local se trouve en : [localhost:4000][lien-local]
 
 * ### Quand la copie de développement est prête à être mis en ligne
 
-  `git checkout master`
-  `git merge branchedev`
-
+```bash
+  git checkout master
+  git merge branchedev
+```
   Ou toute autre technique GUI pour mettre sur origin/master la copie de développement.
 
+---
 
+Ensuite, on peut [ajouter un nouveau billet]({% post_url 2016-03-19-ajouter-billet %})
 
+[github]: https://github.com/sgdjs/sgdjs.github.io.git
 [lien-local]: http://localhost:4000

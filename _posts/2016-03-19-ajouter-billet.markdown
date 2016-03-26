@@ -2,7 +2,6 @@
 layout: post
 title:  "Ajouter un nouveau billet"
 date:   2016-03-19 19:30:10 -0400
-categories: jekyll
 ---
 Les billets sont dans le répertoire `_post`.
 
