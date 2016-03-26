@@ -1,11 +1,3 @@
-# www.hub.sgdjs.net
+# www.sgdjs.net
 
-sgdjs is a personnal platform for a person with complicated name.
-
-This hub is a tool to build in the long term a strong knowledge.
-
-## Idea
-
-Easy access to all useful ressources.
-
-## 
+sgdjs is a personal platform of someone with complicated name.

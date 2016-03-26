@@ -46,4 +46,4 @@ Ensuite, on peut [ajouter un nouveau billet][suite]
 
 [github]: https://github.com/sgdjs/sgdjs.github.io.git
 [lien-local]: http://localhost:4000
-[suite]: http://www.hub.sgdjs.net/2016/03/19/ajouter-billet.html
+[suite]: http://www.sgdjs.net/2016/03/19/ajouter-billet.html
