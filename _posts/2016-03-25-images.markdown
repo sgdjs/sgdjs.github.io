@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Et si on mettait un peu de couleur dans tout ça"
+date:   2016-03-25 21:41:54
+categories: jekyll
+---
+
+Le thème par défaut de Jekyll est minimaliste. Pour l'instant, il affiche les billets dans l'ordre chronologique.
+
+Pour egayer un peut ça avec markdown, on peut mettre des images
+
+![oiseau](/img/oiseau.jpg)

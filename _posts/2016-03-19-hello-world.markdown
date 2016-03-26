@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello World!"
 date:   2016-03-19 19:18:10 -0400
+categories: jekyll
 ---
 C'est le premier post de ce blog. Super excitant !
 
@@ -31,6 +32,5 @@ Progressivement.
 
 Ici c'est le début. On fait ensemble depuis le début. « À partir d'ici, on est rendu à ».
 
-Ensuite, on peut [parler de jekyll][suite]
+Ensuite, on peut [parler de jekyll]({% post_url 2016-03-23-simplicite %})
 
-[suite]: http://www.hub.sgdjs.net/2016/03/23/simplicite.html
