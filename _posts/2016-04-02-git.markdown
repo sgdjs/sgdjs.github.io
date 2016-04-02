@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Git?"
+date:   2016-04-02 21:41:54
+categories: git
+---
+
+Git est le système de gestion de versions fait pour le développement de Linux.
+
+## Comment git et jekyll fonctionnent ensembles?
+
+Jekyll permet de faire un site internet bien statique. Git introduit plusieurs choses intéressantes:
+
+* **Versions parallèles**: Les branches du répertoire git sont différentes versions du projet de site web.
+
+  * Master: la branche master, comme d'habitude, est la version finale du produit. C'est la version envoyée au client, et pour un site jekyll, c'est la version publique du site web.
+
+  * Toutes les autres branches sont des versions de travail, des brouillons, des essais qui nécessitent une version en paralèlle du site, pour ne pas déranger la version publique.
