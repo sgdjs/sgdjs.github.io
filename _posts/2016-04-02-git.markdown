@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Utiliser Git pour gérer le projet"
-date:   2016-04-02 21:41:54
+date:   2016-04-02 17:49:25
 categories: git
 ---
 
@@ -27,4 +27,4 @@ La branche master de ce répertoire, qui prend le nom de [username].github.io et
 
 ## Autres configurations
 
-Tout autre type de configuration est possible, il suffit de gérérer le site avec les commandes Jekyll et de le mettre au bon endroit. 
+Tout autre type de configuration est possible, il suffit de gérérer le site avec les commandes Jekyll et de le mettre au bon endroit.
