@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Git?"
+title:  "Utiliser Git pour gérer le projet"
 date:   2016-04-02 21:41:54
 categories: git
 ---
 
 Git est le système de gestion de versions fait pour le développement de Linux.
 
-## Comment git et jekyll fonctionnent ensembles?
+## Comment git et jekyll peuvent fonctionner ensembles?
 
 Jekyll permet de faire un site internet bien statique. Git introduit plusieurs choses intéressantes:
 
@@ -16,3 +16,15 @@ Jekyll permet de faire un site internet bien statique. Git introduit plusieurs c
   * Master: la branche master, comme d'habitude, est la version finale du produit. C'est la version envoyée au client, et pour un site jekyll, c'est la version publique du site web.
 
   * Toutes les autres branches sont des versions de travail, des brouillons, des essais qui nécessitent une version en paralèlle du site, pour ne pas déranger la version publique.
+
+* **Collaboration**: Git est fait pour ça. Le web aussi, en partie.
+
+## À propos de GitHub
+
+GitHub met à disposition de tous ceux qui le souhaitent, un nombre infini de répertoires git, ouverts à tous, et un répertoire "git pages" de jusqu'à un giga-octet.
+
+La branche master de ce répertoire, qui prend le nom de [username].github.io et peut avoir un domaine propre comme sgdjs.net, est le site internet publique, comme n'importe lequel. Car git génère le site jekyll automatiquement.
+
+## Autres configurations
+
+Tout autre type de configuration est possible, il suffit de gérérer le site avec les commandes Jekyll et de le mettre au bon endroit. 
