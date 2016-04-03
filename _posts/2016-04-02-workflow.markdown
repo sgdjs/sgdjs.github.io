@@ -8,3 +8,29 @@ categories: git
 Le workflow idéal n'est pas décrit, ou n'a pas encore été trouvé.
 
 Personne travaillant seule cherche workflow idéal pour permettre à d'autres participants à le faire proprement.
+
+## 1. Préparer les outils
+
+* SourceTree (un autre client GUI de git correct). Avec des noms de fichiers de post de type yyyy-mm-dd-name.markdown, le terminal est fatigant.
+
+* Atom (tout autre éditeur de texte aussi correct).
+
+## 2. Cloner le répertoire
+
+* `git clone repertory`
+
+## 3. Explorer la structure
+
+* Avec SourceTree, ou tout autre outil adéquat, faire le tour du répertoire :
+
+  * origin/master est la version présentement en ligne
+  * master est la branche « finale » locale
+    Tous les changements se font sur master, en développement centralisé, et chacun envoie sur origin/master leur travail. Les conflits sont résolus localement.
+  * Dans un projet de développement de logiciel, on fait des branches de fonctionnalités. Il faut que chaque fonctionnalité soit terminée pour ne pas compromettre l'ensemble du logiciel. Dans un projet de site web ou de documentation, pas besoin d'avoir terminé, mais on veut un site ou un document cohérent, d'un niveau de finition défini.
+
+## 4. Les niveaux de finitions
+
+* La version finale : master - on peut corriger une faute d'orthographe directement dans la version finale. C'est un changement unique, et il faut mettre à jour le site public au plus vite. Sinon, ce sont des merge.
+  Note : il n'y a aucune raison de garder un historique propre dans le cas d'un site web. Par contre il faut aider à l'écriture des messages de « commit », avec une convention claire.
+* La version personnelle : sgdjs - c'est la version finale, mais en local. Si j'ajoute un nouveau post, je vais le mettre dans la version personnelle, qui doit rester propre. Puis, je vais le relire dans cette branche et corriger les fautes, et le valider pour la version finale publique.
+* La version de travail : page-presentation. Les post de jekyll ne sont pas vraiment des versions de travail. Le contenu du site fait partie de la version finale, et on devrait plutôt utiliser le brouillon jekyll (à vérifier par l'essai). Mais si on doit travailler en plusieures fois sur une page avant qu'elle ne soit finie, alors il faut faire une branche pour le « projet » de la page. En fait, si on risque d'être interrompu dans notre travail sur cette version non présentable, il faut séparer le travail sur une branche de projet. Rappel, la version personnelle doit être finale, non publique.
