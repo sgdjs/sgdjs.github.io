@@ -9,10 +9,6 @@
 title: sgdjs
 email: simon@sgdjs.net
 description: > # this means to ignore newlines until "baseurl:"
-  Just like a piece of art, numeric content can be built progressively:
-  created, improved, corrected, loved, deleted, distroyed, forgotten.
-  Perfection is impossible, but good habits can take you close to it.
-
   We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.sgdjs.net" # the base hostname & protocol for your site
