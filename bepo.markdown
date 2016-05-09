@@ -1,0 +1,29 @@
+---
+layout: default
+title: Bépo
+---
+
+Je ne peux plus écrire sur un ordinateur autrement qu'en bépo.
+
+Quand je dois écrire sur un clavier qwerty sans avoir le choix 
+(par exemple sur un serveur Windows où je n'ai pas encore copié de 
+dispositon portable de bépo) je regarde les lettres du clavier physique
+qui est devant moi. Sinon, je ne regarde plus mes doigts, et c'est un
+vrai confort.
+
+Le confort, c'est une chose sur laquelle on s'accorde en général. Par
+contre, tout le monde n'y porte pas grande importance. Quand il s'agit
+du clavier, je pense que personne n'y apporte grande importance,
+proportionnellement parlant.
+
+La recherche d'un outil de travail efficace peut parfois aboutir dans
+quelque chose améliorant vraiment la performance. Pour le clavier bépo,
+je ne saurais même pas dire si j'ai vraiment des résultats en
+performance, car je n'ai pas calculé ma vitesse de frappe avant et
+après. Mais je suis certain que mon confort a augmenté, car je regarde
+moins souvent le clavier.
+
+De la même façon, je ne connais pas la différence de performance entre
+mon clavier « normal » et mon clavier orthogonal, mais je suis certain
+que mon confort a augmenté, car mes doigts font moins de mouvement avec
+plus de précision.
