@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  Premier billet
 date:   2016-03-19 19:18:10 -0400
 categories: jekyll
 ---
-C'est le premier post de ce blog. Super excitant !
+Hello World!
+
+C'est le premier post de ce blog jekyll sur Github en markdown. Super excitant !
 
 Je vais un peut expliquer pourquoi je fais ça. 
 

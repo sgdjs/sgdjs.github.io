@@ -1,6 +1,6 @@
 ---
 layout: default
-title: todo
+title: To-do
 ---
 
 * expliquer les repertoires github

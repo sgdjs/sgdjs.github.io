@@ -1,8 +1,8 @@
 ---
-title: questions
+title:  "Commande : mettre en sous-dossier" 
 layout: post
 ---
-Comment faire les choses de manière répétitive de façon plus efficace?
+Question : Comment faire les choses de manière répétitive de façon plus efficace?
 
 Je remarque que je fais certaines choses de façon répétée.
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "À propos de la simplicité d'utilisation de jekyll"
+title:  Déployer avec git  
 date:   2016-03-23 20:37:14
 categories: jekyll
 ---
+À propos de la simplicité d'utilisation de jekyll
 
 ## Retour d'expérience
 
