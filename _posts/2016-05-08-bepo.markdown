@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: Bépo
+date:   2016-05-08 15:24:32 -0400
 ---
 
 Je ne peux plus écrire sur un ordinateur autrement qu'en bépo.
