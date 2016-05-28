@@ -3,10 +3,10 @@ layout: default
 title: Vim
 ---
 
-Vim est un autre outil que j'ai envie de tester. Je l'utilise déjà
+Vim est un outil que j'ai envie de mieux exploiter. Je l'utilise déjà
 régulièrement, mais avec les comandes les plus basiques. J'ai pris la
 résolution d'apprendre à utiliser Vim d'une façon plus poussée, et je
-vais écrire ce document de cette façon. 
+vais prendre des notes dans ce document.
 
 J'entends être forcé à me déplacer dans le document d'une façon plus
 efficace que c t s r.
