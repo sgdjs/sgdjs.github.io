@@ -11,10 +11,10 @@ vais écrire ce document de cette façon.
 J'entends être forcé à me déplacer dans le document d'une façon plus
 efficace que c t s r.
 
-« Oui, je vais utiliser les touches bépo. Toute la documentation est
-faite avec le clavier qwerty, et je vais en profiter pour faire une
-documentation flexible. Je l'écrirais dans un premier temps avec les
-touches bépo.
+Oui, utiliser un clavier bépo pose cette difficulté là : je dois
+modifier mon vimrc pour placer les hjkl au même endroit qu'en QWERTY.
+Donc les touches ne sont pas exactement sur la même lettre que tous les
+guides sur VIM.
 
 * c : déplacer le curseur un cran à gauche
 * t : déplacer le curseur une ligne vers le bas
