@@ -1,0 +1,13 @@
+---
+title: questions
+layout: post
+---
+Problème du jour
+
+Je m 'arrête dans mon etntrerpise de 
+changer la page bépo en post
+
+car j'ai besoin de savoir quand le fichier bepo.markdown a été changé la
+dernière fois dans le répertoire git. La date de l'OS indique le 8 mai
+2016 à 15:24.
+
