@@ -1,0 +1,31 @@
+---
+layout: post
+title: nvALT
+date: 2016-06-03 21:51 America/Montreal
+---
+J'ai essayé nvALT aujourd'hui, après avoir regardé la vidéo incroyable
+de Jay Dixit sur Emacs. Il explique à propos de nvALT que c'est
+le programme qui lui a permis de prendre des notes pour commencer son
+livre, mais qu'il a rapidement eu besoin de ranger ses notes et a
+commencé à utiliser Emacs.
+
+J'ai passé la semaine à regarder des vidéos en anglais de Vim et hier
+j'ai regardé cet écrivain et j'ai énormément appris sur l'utilisation
+qu'il faut avoir de son éditeur de texte.
+
+* Prendre des notes dans le texte.
+* Développer des morceaux et les déplacer rapidement.
+* Automatiser l'export, le partage, l'envoie du texte.
+* Prendre des notes, les classer et les hiérarchiser rapidement.
+
+Et nvALT est super. Recherche rapide sur le titre, raccourcis de
+claviers intelligents, vim-like (cmd-j et cmd-k), instantané. 
+
+Je ne peux pas l'utiliser car les raccourcis j et k ne sont pas placés à
+cet endroit. Avec vim, je peux changer les emplacements. Et tout le
+reste en fait. Pas comme Emac
+
+Tâches
+
+    * Apprendre à insérer la date et l'heure automatiquement.
+    * Action pour créer un nouveau post semi-automatiquement.
