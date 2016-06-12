@@ -11,7 +11,7 @@ commencé à utiliser Emacs.
 
 J'ai passé la semaine à regarder des vidéos en anglais de Vim et hier
 j'ai regardé cet écrivain et j'ai énormément appris sur l'utilisation
-qu'il faut avoir de son éditeur de texte.
+potentielle d'un éditeur de texte.
 
 * Prendre des notes dans le texte.
 * Développer des morceaux et les déplacer rapidement.
@@ -22,10 +22,11 @@ Et nvALT est super. Recherche rapide sur le titre, raccourcis de
 claviers intelligents, vim-like (cmd-j et cmd-k), instantané. 
 
 Je ne peux pas l'utiliser car les raccourcis j et k ne sont pas placés à
-cet endroit. Avec vim, je peux changer les emplacements. Et tout le
-reste en fait. Pas comme Emac
+cet endroit à cause de la diposition bépo. Avec vim, je peux changer les
+emplacements. Et faire tout le reste, avec un peu d'efforts. 
 
-Tâches
+Idées de tâches répétitives en écrivant un blog, qui mériteraient d'être
+automatisées.
 
-    * Apprendre à insérer la date et l'heure automatiquement.
-    * Action pour créer un nouveau post semi-automatiquement.
+    * Insérer la date et l'heure.
+    * Créer un nouveau post.
