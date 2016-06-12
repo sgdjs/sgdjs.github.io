@@ -1,7 +1,7 @@
 ---
 layout: post
 title: nvALT
-date: 2016-06-03 21:51 America/Montreal
+date: 2016-06-03 21:51:49 America/Montreal
 ---
 J'ai essayé nvALT aujourd'hui, après avoir regardé la vidéo incroyable
 de Jay Dixit sur Emacs. Il explique à propos de nvALT que c'est

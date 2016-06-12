@@ -7,18 +7,16 @@ permalink: /presentation/
 # www.sgdjs.net
 
 J'utilise ce blog pour prendre des notes sur mes apprentissages. Comme
-je fais ça sur mon temps libre, je suis souvent obligé de m'interrompre,
-et je souhaitais avoir un endroit qui soit mon carnet de notes, et
-pouvoir profiter au maximum de la technologie.
+je suis souvent obligé de m'interrompre, je dois  avoir un endroit qui
+soit mon carnet de notes.
 
-# Présentation en 7 points
+# Présentation en 7 particularité
 
-* J'utilise la disposition de clavier bépo
-* Je fais des expériences sur/avec linux depuis 10 ans 
-* J'ai eu une utilisation de vim très très basique jusqu'à très récemment
-* J'utilise un mac, tmux+vim me séduisent et je pense commencer avec
-  ruby bientôt
-* Je fais des documents avec Latex et je crois que ça effrait certaines
-  personnes
-* Je suis un observateur assez prudent : « Lentement, mais surement »
-* Je suis un wanna-be programmeur
+* Utilise la disposition de clavier bépo
+* Fasciné par Linux depuis 10 ans 
+* A pris récemment la résolution de mieux tirer parti de vim
+* Configure vim+tmux pour Mac, Windows et Linux
+* Aime séparer l'essence des choses, par exemple le fond et la forme
+  avec Latex ou HTML 
+* Observateur prudent : « Lentement, mais surement »
+* Bricoleur méthodique tant que possible
