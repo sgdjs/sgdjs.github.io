@@ -1,0 +1,42 @@
+---
+title: bépo
+date: 2016-06-15 22:13
+layout: post
+---
+Je parle souvent et je pense souvent à mon clavier. Alors j'ai des
+choses à ajouter à propos du bépo.
+
+En apprenant à (parler) bépo, j'ai réalisé à postériori que j'avais
+franchis un mur. En gagnant en confort, tel que raconté dans le post
+précédent. Mais en faisant un éffort intense. En effet, réflechir pour
+taper son nom est quelque chose qui n'arrive pas tous les jours, et
+qui est plutôt dérangeant. Comme écrire (au stylo), on ne réfléchit pas
+pour écrire les mots les plus courants. Et nos doigts connaissent un
+nombre incroyable de choses, sans effort. J'imagine qu'on pourrait
+comparer stupidement notre cerveau avec un ordinateur, et dire que la
+mémoire sensorielle des doigts correspond à une mémoire vive, et que
+l'effort correspond à une lecture de disque dur et analyse de données.
+Evidemment on a des SSD dans le cerveau, mais quand même !
+
+Donc dans un souci de cohérence, j'ai cherché d'autres choses à
+apprendre à mes doigts, et je suis tombé sur vim. Non, je connaissait
+vim avant, mais j'ai réalisé l'importance de la mémoire du doigté. Et je
+pense qu'il est bon d'être flexible, donc de s'entrainer à apprendre.
+Pour pouvoir être plus pareisseux par la suite…
+Donc en ce moment j'écris beaucoup avec vim, je modifie mes fichiers de
+configuration, j'essaye d'utiliser tmux qui est largement recommandé
+(encore des raccourcis) pour faire du multitask tranquilement… donc je
+dois aussi mettre mes changements dans git, etc. Et je me retrouve a
+utiliser des outils difficiles d'accès. Mais j'apprécie leur
+utilisation, et je travaille de plus en plus avec la console, ce qui est
+confortable, mais difficile d'accès (encore une fois…) parfois. Dans ce
+sac là, je pourrais mettre (en partant de 0) bépo, vim, tmux, latex,
+git, jekyll.
+
+La ligne de commande me monte à la tête. Un peu comme une grosse
+machine : à quoi elle sert ? et bien il y a ce qu'on voit qu'elle fait,
+et il y a l'essence et la raison. Il y a le gros logiciel et l'essence
+de commande.
+
+Décidément, c'est la soirée des comparaisons stupides. (ou bien j'aime
+vraiment ça ?)

@@ -1,0 +1,14 @@
+---
+title:  "Commande : reformater un paragraphe"
+layout: post
+---
+Problème du jour
+
+J'allais encore parler de bépo, et je dois m'interrompre pour écrire
+comment refaire un paragraphe pour vim, car je l'ai déjà fait, et
+j'aurais du le documenter.
+
+Assembler une ligne : T (J en non bépo)
+Couper la ligne à la longueur automatique : vgq (gq en visuel)
+
+:)
