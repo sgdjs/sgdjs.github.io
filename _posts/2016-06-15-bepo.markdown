@@ -22,7 +22,7 @@ Donc dans un souci de cohérence, j'ai cherché d'autres choses à
 apprendre à mes doigts, et je suis tombé sur vim. Non, je connaissait
 vim avant, mais j'ai réalisé l'importance de la mémoire du doigté. Et je
 pense qu'il est bon d'être flexible, donc de s'entrainer à apprendre.
-Pour pouvoir être plus pareisseux par la suite…
+Pour pouvoir être plus paresseux par la suite…
 Donc en ce moment j'écris beaucoup avec vim, je modifie mes fichiers de
 configuration, j'essaye d'utiliser tmux qui est largement recommandé
 (encore des raccourcis) pour faire du multitask tranquilement… donc je
