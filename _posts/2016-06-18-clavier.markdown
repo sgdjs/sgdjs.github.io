@@ -1,0 +1,9 @@
+---
+lang: en
+ref: keyboard
+layout: post
+title: Ortholinear Keyboards
+date: 2016-06-18
+---
+The ortholinear keyboard, like the Typematrix, forces one to use a
+specific finger for a certain key.
