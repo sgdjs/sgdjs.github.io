@@ -1,4 +1,6 @@
 ---
+lang: fr
+ref: ajouter
 layout: post
 title:  Nouveau billet
 date:   2016-03-19 19:30:10 -0400
