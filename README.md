@@ -2,6 +2,8 @@
 layout: page
 title: Présentation
 permalink: /presentation/
+ref: readme
+lang: fr
 ---
 
 # www.sgdjs.net
