@@ -33,6 +33,8 @@ confortable, mais difficile d'accès (encore une fois…) parfois. Dans ce
 sac là, je pourrais mettre (en partant de 0) bépo, vim, tmux, latex,
 git, jekyll.
 
+<!--- wtf 
+
 La ligne de commande me monte à la tête. Un peu comme une grosse
 machine : à quoi elle sert ? et bien il y a ce qu'on voit qu'elle fait,
 et il y a l'essence et la raison. Il y a le gros logiciel et l'essence
@@ -40,3 +42,5 @@ de commande.
 
 Décidément, c'est la soirée des comparaisons stupides. (ou bien j'aime
 vraiment ça ?)
+
+-->
