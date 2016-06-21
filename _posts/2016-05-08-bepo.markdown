@@ -1,4 +1,6 @@
 ---
+lang: fr
+ref: bépo
 layout: post
 title: Bépo
 date:   2016-05-08 15:24:32 -0400
@@ -6,8 +8,8 @@ date:   2016-05-08 15:24:32 -0400
 
 Je ne peux plus écrire sur un ordinateur autrement qu'en bépo.
 
-Quand je dois écrire sur un clavier qwerty sans avoir le choix 
-(par exemple sur un serveur Windows où je n'ai pas encore copié de 
+Quand je dois écrire sur un clavier qwerty sans avoir le choix
+(par exemple sur un serveur Windows où je n'ai pas encore copié de
 dispositon portable de bépo) je regarde les lettres du clavier physique
 qui est devant moi. Sinon, je ne regarde plus mes doigts, et c'est un
 vrai confort.

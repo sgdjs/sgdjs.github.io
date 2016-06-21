@@ -1,5 +1,7 @@
 ---
-title:  "Commande : mettre en sous-dossier" 
+lang: fr
+ref: prob1
+title:  "Commande : mettre en sous-dossier"
 layout: post
 ---
 Question : Comment faire les choses de manière répétitive de façon plus efficace?
@@ -47,5 +49,3 @@ temporarirement l'option dotglob
     shopt -s extglob dotglob
     mv !(nouveau) nouveau
     shopt -u dotglob
-
-

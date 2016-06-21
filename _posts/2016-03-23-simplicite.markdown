@@ -1,4 +1,6 @@
 ---
+lang: fr
+ref: jekyll
 layout: post
 title:  Déployer avec git  
 date:   2016-03-23 20:37:14
@@ -8,7 +10,7 @@ categories: jekyll
 
 ## Retour d'expérience
 
-Jekyll permet de faire des pages web très rapidement, grâce à git/hub. 
+Jekyll permet de faire des pages web très rapidement, grâce à git/hub.
 Il suffit de se souvenir de quelques commandes pour faire les opérations nécessaires.
 
 Git et github permettent de mettre en place un workflow, un enchainement d'étapes qui rendent le travail confortable.

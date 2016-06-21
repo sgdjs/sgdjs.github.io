@@ -1,4 +1,6 @@
 ---
+lang: fr
+ref: prob3
 title:  "Commande : reformater un paragraphe"
 layout: post
 ---

@@ -1,4 +1,6 @@
 ---
+lang: fr
+ref: images
 layout: post
 title:  Les images en markdown
 date:   2016-03-25 21:41:54

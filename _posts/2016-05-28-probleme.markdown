@@ -1,10 +1,12 @@
 ---
+lang: fr
+ref: prob2
 title:  "Commande : historique d'un fichier"
 layout: post
 ---
 Problème du jour
 
-Je m 'arrête dans mon etntrerpise de 
+Je m 'arrête dans mon etntrerpise de
 changer la page bépo en post
 
 car j'ai besoin de savoir quand le fichier bepo.markdown a été changé la

@@ -1,4 +1,6 @@
 ---
+lang: fr
+ref: nvalt
 layout: post
 title: nvALT
 date: 2016-06-03 21:51:49 America/Montreal
@@ -19,11 +21,11 @@ potentielle d'un éditeur de texte.
 * Prendre des notes, les classer et les hiérarchiser rapidement.
 
 Et nvALT est super. Recherche rapide sur le titre, raccourcis de
-claviers intelligents, vim-like (cmd-j et cmd-k), instantané. 
+claviers intelligents, vim-like (cmd-j et cmd-k), instantané.
 
 Je ne peux pas l'utiliser car les raccourcis j et k ne sont pas placés à
 cet endroit à cause de la diposition bépo. Avec vim, je peux changer les
-emplacements. Et faire tout le reste, avec un peu d'efforts. 
+emplacements. Et faire tout le reste, avec un peu d'efforts.
 
 Idées de tâches répétitives en écrivant un blog, qui mériteraient d'être
 automatisées.
