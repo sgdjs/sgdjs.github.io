@@ -19,6 +19,6 @@ github_username:  sgdjs
 markdown: kramdown
 
 # personalisation sgdjs
-permalink: /:categories/:title
+permalink: /:year/:month/:day/:title
 gems:
   - jekyll-feed
