@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un nouveau blog" 
+title: "sgdjs: un nouveau blog" 
 date:   2016-03-19 19:18:10 -0400
 categories: jekyll
 ---
@@ -32,5 +32,5 @@ base.
 
 On y va progressivement.
 
-Plus sur [Jekyll]({% post_url 2016-03-23-simplicite %})
+Plus sur [Jekyll]({% post_url 2016-03-23-git %})
 

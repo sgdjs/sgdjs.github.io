@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Les images en markdown
+title:  "Markdown : l'essentiel"
 date:   2016-03-25 21:41:54
 categories: jekyll
 ---
@@ -12,3 +12,13 @@ Pour mettre un peu de couleur il faut mettre des images.
 ![oiseau](/img/oiseau.jpg)
 
 Les images vont être regroupées ensembles dans un dossier à la racine du site et les pages y font appel: `![oiseau](/img/oiseau.jpg)`
+
+Le caractère (accent grave) utilisé en paire échappe le contenu `de cette façon`.
+
+Pour faire un lien, écrire le texte de lien entre crochets suivi de la référence aussi entre crochets [Mon lien][ref-abc] : `[Mon lien][ref-abc]`.
+
+En bas de la page, on met le lien de la référence:
+
+`[ref-abc]: http://google.com`
+
+[ref-abc]: http://google.com
