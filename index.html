@@ -6,10 +6,9 @@ layout: default
 
     <h1 class="page-heading">Sept derniers billets</h1>
 
-    <ul class="post-list">
+    <article>
         {% for post in site.posts limit:7 %}
-        <li>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}
+            <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}
             </span>
 
             <h2>
@@ -18,9 +17,8 @@ layout: default
                     {{ post.title }}</a>
             </h2>
 
-        </li>
         {% endfor %}
-    </ul>
+    </article>
 
     <p class="rss-subscribe">S'inscrire au <a href="{{ "/feed.xml" | prepend: site.baseurl }}">flux RSS</a></p>
 
