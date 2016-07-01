@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: To-do
+permalink: /todo/
 ---
 
 * expliquer les repertoires github
