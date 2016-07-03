@@ -4,20 +4,24 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Billets</h1>
+    <h1 class="page-heading">Sept derniers billets</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <article>
+        {% for post in site.posts limit:7 %}
+            <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}
+            </span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+            <h1>
+                <a class="post-link" 
+                   href="{{ post.url | prepend: site.baseurl }}">
+                    {{ post.title }}</a>
+            </h1>
+            
+{{ post.content }}
 
-  <p class="rss-subscribe">S'inscrire au <a href="{{ "/feed.xml" | prepend: site.baseurl }}">flux RSS</a></p>
+        {% endfor %}
+    </article>
+
+    <p class="rss-subscribe">S'inscrire au <a href="{{ "/feed.xml" | prepend: site.baseurl }}">flux RSS</a></p>
 
 </div>
