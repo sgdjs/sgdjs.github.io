@@ -1,24 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: sgdjs
-email: simon@sgdjs.net
-description: > # this means to ignore newlines until "baseurl:"
-  We are what we repeatedly do. Excellence, then, is not an act, but a habit.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.sgdjs.net" # the base hostname & protocol for your site
-twitter_username: _gdjs
-github_username:  sgdjs
-
-# Build settings
+full_rebuild: true
+name: Docster Documentation
+author: DigitalMind
+version: V 1.0
+encoding: utf-8
+defaults:
+  -
+    values:
+      layout: "index"
 markdown: kramdown
-
-# personalisation sgdjs
-permalink: /:year/:month/:day/:title
-gems:
-  - jekyll-feed
+kramdown:
+  input: GFM
+relative_permalinks: false
+collections:
+- entries
+sass:
+  sass_dir: _sass
+  style: :compressed
+exclude: [
+.git,
+.gitignore,
+README.md,
+.sass-cache
+]
