@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Vim
+title: "Vim : introduction"
+date: 2016-05-09 13:42:44
 ---
 
 Vim est un outil que j'ai envie de mieux exploiter. Je l'utilise déjà
