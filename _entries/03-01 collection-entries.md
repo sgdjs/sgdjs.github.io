@@ -3,7 +3,6 @@ sectionclass: h2
 sectionid: collection-entries
 parent-id: content
 is-parent: yes
-number: 3100
 title: Collection Entries
 ---
 Okay, so the collection is the entries collection. All of your documentation sections will be placed within that folder.
