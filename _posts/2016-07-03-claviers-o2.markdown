@@ -3,9 +3,30 @@ layout: post
 title: "Les claviers O2 : orthogonaux et optimisés"
 time: 2016-07-03 14:51:19
 ---
-Les claviers O2 représentent la symbiose de l'optimisation de la
-disposition des lettres du clavier, et la disposition orthogonale des
-touches:
+
+La douleur au poignet est subtile, et tous ne la ressentent pas.
+L'utilisation intensive du clavier, c'est à dire une journée normale de
+travail bureau pour de nombreuses personnes, provoque des douleurs sur
+le haut des mains.
+
+La disposition orthogonale d'un clavier permet de réduire les problèmes
+de canal carpien. En effet la distance à parcourir pour les doigts est
+moindre comparée à un clavier décalé, pour aller chercher certains
+chiffres par exemple.
+
+Un autre avantage de cette disposition est que le doigté des touches est
+plus logique : un doigt par colone de touches. Cela a beaucoup
+d'importance au moment d'écrire sans regarder les doigts (ce qui est
+aussi plus ergonomique) car réduit les erreurs de frappes.
+
+La disposition des lettres du clavier a également une importance
+capitale pour réduire les douleurs à la main et au poignet. En effet,
+nos doigts n'ont pas tous la même force, ni la même précision. Nos index
+et majeurs sont les doigts les plus forts et précis, et ils devraient
+être plus utilisés que les autres. 
+
+Les claviers O2 joignent l'optimisation de la disposition des lettres du
+clavier avec la disposition orthogonale des touches:
 
 # O2-4
 
